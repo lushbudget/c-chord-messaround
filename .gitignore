@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+# SuperCollider temporary files
+*.tmp
+*.osc
+# Audio files
+*.wav
+*.aiff
+*.flac
+*.mp3
+# VS Code files
+.vscode/
+
+# Swap files (common in text editors like Vim)
+*.swp
+*.swo
+
+# Backup files
+*~
+# Node.js dependencies (if using npm for a web-based SuperCollider project)
+node_modules/
+
+# Python virtual environments (if applicable)
+venv/
+
+
+
